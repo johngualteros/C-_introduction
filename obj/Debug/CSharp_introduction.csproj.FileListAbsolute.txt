@@ -1,0 +1,8 @@
+C:\Users\jumbo170\Music\CSharp_introduction\bin\Debug\CSharp_introduction.exe.config
+C:\Users\jumbo170\Music\CSharp_introduction\bin\Debug\CSharp_introduction.exe
+C:\Users\jumbo170\Music\CSharp_introduction\bin\Debug\CSharp_introduction.pdb
+C:\Users\jumbo170\Music\CSharp_introduction\obj\Debug\CSharp_introduction.csproj.AssemblyReference.cache
+C:\Users\jumbo170\Music\CSharp_introduction\obj\Debug\CSharp_introduction.csproj.SuggestedBindingRedirects.cache
+C:\Users\jumbo170\Music\CSharp_introduction\obj\Debug\CSharp_introduction.csproj.CoreCompileInputs.cache
+C:\Users\jumbo170\Music\CSharp_introduction\obj\Debug\CSharp_introduction.exe
+C:\Users\jumbo170\Music\CSharp_introduction\obj\Debug\CSharp_introduction.pdb
